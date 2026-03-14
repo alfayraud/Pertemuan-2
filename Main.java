@@ -7,7 +7,7 @@ public class Main {
         alfay.hp = 200;
         alfay.showProfile();
         alfay.attack();
-
+ 
         Weapon pedangSakti = new Weapon();
         pedangSakti.name = "Pedang Sakti";
         pedangSakti.damage = 150;
